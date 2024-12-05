@@ -53,9 +53,11 @@ Copy and paste the code into a Python file (e.g., quiz_game.py).
 Run the file in your terminal or IDE.
 Answer the questions to see your score and percentage.
 
-----
-#### Features
+
+Features
+
 Interactive question-answer format.
 Keeps track of the user's score.
 Displays percentage accuracy at the end.
-#### Enjoy the quiz!
+
+Enjoy the quiz!
